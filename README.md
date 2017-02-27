@@ -1,15 +1,15 @@
-# consoleSync
+# console-sync
 > Node.js synchronous console
 
 ## Installation
 
 ```shell
-npm install consoleSync
+npm install console-sync
 ```
 
 ## Usage
 
-    require("consoleSync"); // patch console object
+    require("console-sync"); // patch console object
 
     console.log("now this call do synchronous output");
 
@@ -45,9 +45,9 @@ But this workaround not work at all for Node.js v6.x.
 I publish [issue](https://github.com/nodejs/node/issues/11568) with request for fix this behavior.
 
 
-But meanwhile possible to patch `console` using this module. 
+But meanwhile possible to patch the `console` module using this package. 
 
 
-`require("consoleSync");` replace `log`,`info`,`warn`,`error` and `dir` methods with synchronous
+`require("console-sync");` replace `log`,`info`,`warn`,`error` and `dir` methods with synchronous
 analogs.
 

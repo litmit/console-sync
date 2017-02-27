@@ -1,18 +1,18 @@
 {
-  "name": "consoleSync",
+  "name": "console-sync",
   "description": "Node.js synchronous console",
   "version": "0.0.1",
-  "homepage": "https://github.com/litmit/consoleSync",
+  "homepage": "https://github.com/litmit/console-sync",
   "author": {
     "name": "Dzmitry Litskalau",
     "email": "litmit@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/litmit/consoleSync.git"
+    "url": "git://github.com/litmit/console-sync.git"
   },
   "bugs": {
-    "url": "https://github.com/litmit/consoleSync/issues"
+    "url": "https://github.com/litmit/console-sync/issues"
   },
   "license": "MIT",
   "main": "index.js",
