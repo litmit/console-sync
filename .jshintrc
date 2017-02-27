@@ -1,0 +1,18 @@
+{
+  "curly":  true,
+  "eqeqeq": true,
+  "esnext": true,
+  "forin":  false,
+  "freeze": true,
+  "immed":  true,
+  "latedef":true,
+  "newcap": true,
+  "nonew":  true,
+  "quotmark":true,
+  "undef":  true,
+  "unused": true,
+  "indent": 3,
+  "node":   true,
+  "mocha":  true,
+  "sub":    true
+} 
